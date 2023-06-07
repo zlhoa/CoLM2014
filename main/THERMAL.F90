@@ -1,4 +1,4 @@
-
+! hello world
  SUBROUTINE THERMAL (itypwat     ,lb          ,nl_soil     ,deltim     ,&
                      trsmx0      ,zlnd        ,zsno        ,csoilc     ,&
                      dewmx       ,capr        ,cnfac       ,csol       ,&
